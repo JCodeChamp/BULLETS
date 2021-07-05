@@ -93,7 +93,7 @@ function setup() {
 
 function draw() {
 
-  background(0);
+  background(255);
   fill(255);
   noStroke();
   rect(0, 145, 1530, 5);
